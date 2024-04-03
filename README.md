@@ -16,6 +16,8 @@ React.js
 HTML
 CSS
 JavaScript
+Redux
+TailwindCSS
 
 ## Live Application URL
 
